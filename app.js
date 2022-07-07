@@ -67,7 +67,7 @@ async function monitorContract() {
       let currency = {
         name: 'ETH',
         decimals: 18,
-        threshold: 1,
+        threshold: 3,
       };
       let tokens = [];
       let totalPrice;

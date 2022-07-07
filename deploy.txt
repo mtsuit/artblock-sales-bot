@@ -1,0 +1,6 @@
+# Deploy your changes
+# Make some changes to the code and deploy to Heroku using Git.
+
+ git add .
+ git commit -am "some comment"
+ git push heroku master
